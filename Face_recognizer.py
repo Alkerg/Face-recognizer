@@ -225,7 +225,7 @@ botonCaptura = Button(root,text = "Captura de rostros", width = 30, bg = "#EFF1C
 botonEntrenamiento = Button(root,text = "Entrenamiento", width = 30, bg = "#EFF1C5",font = ("Bahnschrift",10),
                     fg = "#464932", activebackground = "#E3E79C", height = 2, command = entrenar_modelo).pack()
 
-botonRecnocimiento = Button(root,text = "Reconocimiento de rostros", width = 30, bg = "#EFF1C5",font = ("Bahnschrift",10),
+botonReconocimiento = Button(root,text = "Reconocimiento de rostros", width = 30, bg = "#EFF1C5",font = ("Bahnschrift",10),
                     fg = "#464932", activebackground = "#E3E79C",height = 2, command = boton_reconocimiento).pack()
 
 mostrar_en_lframe()
