@@ -13,7 +13,7 @@ First you must install the dependencies from the command console.
 
 -Pillow  -> pip install Pillow
 
-#Functioning
+# Functioning
 
 To use the recognizer, you must create a folder called "data" in the same directory where the files of this program are located.
 Then change the variable "personName" by the name of the person to recognize.
