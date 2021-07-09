@@ -1,4 +1,4 @@
-# Face-recognizer
+# Face-recognizerasd
 Description: A face recognizer made with OpenCV and Tkinter.
 
 #Dependecies
