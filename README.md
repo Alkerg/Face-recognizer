@@ -1,7 +1,7 @@
 # Face-recognizer
 Description: A face recognizer made with OpenCV and Tkinter.
 
-#Dependecies
+# Dependecies
 
 First you must install the dependencies from the command console.
 
