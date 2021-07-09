@@ -3,10 +3,10 @@ Description: A face recognizer made with OpenCV and Tkinter.
 
 #Dependecies
 First you must install the dependencies from the command console.
--OpenCV       -> pip install opencv-python  ,   pip install --user opencv-contrib-python
--imutils      -> pip install imutils
--numpy        -> pip install numpy
--Pillow       -> pip install Pillow
+-OpenCV  -> pip install opencv-python , pip install --user opencv-contrib-python
+-imutils -> pip install imutils
+-numpy   -> pip install numpy
+-Pillow  -> pip install Pillow
 
 #Functioning
 To use the recognizer, you must create a folder called "data" in the same directory where the files of this program are located.
