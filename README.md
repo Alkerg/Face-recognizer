@@ -2,6 +2,7 @@
 Description: A face recognizer made with OpenCV and Tkinter.
 
 #Dependecies
+
 First you must install the dependencies from the command console.
 -OpenCV  -> pip install opencv-python , pip install --user opencv-contrib-python
 -imutils -> pip install imutils
@@ -9,6 +10,7 @@ First you must install the dependencies from the command console.
 -Pillow  -> pip install Pillow
 
 #Functioning
+
 To use the recognizer, you must create a folder called "data" in the same directory where the files of this program are located.
 Then change the variable "personName" by the name of the person to recognize.
 Now, you must run the file "Face_recognizer.py" and the magic begins.
